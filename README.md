@@ -29,3 +29,24 @@ Improved forecasting can contribute to:
 - Reduced operational costs
 - Enhanced grid reliability
 - Sustainable energy management
+
+
+## Deliverables
+EDA
+↓
+Feature engineering
+↓
+Model comparison
+↓
+Forecast dashboard
+↓
+Technical report
+
+
+## Skills
+Feature engineering
+Time-series preprocessing
+XGBoost
+TFT
+Model explainability
+Experiment tracking
