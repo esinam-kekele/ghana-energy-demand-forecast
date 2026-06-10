@@ -50,3 +50,32 @@ XGBoost
 TFT
 Model explainability
 Experiment tracking
+
+## Books & Resources Used
+Time Series Fundamentals
+- Forecasting Principles and Practice (Free Book) -> https://otexts.com/fpp3/?utm_source=chatgpt.com
+
+PyTorch Forecasting
+- PyTorch Forecasting Documentation -> https://pytorch-forecasting.readthedocs.io?utm_source=chatgpt.com
+
+TFT Paper
+- Temporal Fusion Transformers Paper -> https://arxiv.org/abs/1912.09363?utm_source=chatgpt.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
